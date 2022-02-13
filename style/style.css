@@ -1,0 +1,30 @@
+.bg-carosel{
+    background-color: #fceae8;
+    border-radius: 10px;
+    color: white;
+}
+.btn-background{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F); 
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+h1{
+    color: black;
+}
+p{
+    color: black;
+}
+.catagorise{
+    padding-left: 0;
+    padding-right: 0;
+}
+.shose{
+    padding-left: 0;
+    padding-right: 0;
+}
+.backpack{
+    padding-left: 0;
+    padding-right: 0;
+}
